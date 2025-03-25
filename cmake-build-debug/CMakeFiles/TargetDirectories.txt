@@ -1,3 +1,0 @@
-/home/matheus/Documentos/Unoeste/Teoria da Computação/simulacaoNorma/cmake-build-debug/CMakeFiles/simulacaoNorma.dir
-/home/matheus/Documentos/Unoeste/Teoria da Computação/simulacaoNorma/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/matheus/Documentos/Unoeste/Teoria da Computação/simulacaoNorma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
